@@ -1,0 +1,3 @@
+C:/Users/parca/Desktop/networkingphotoshopproject/cmake-build-debug/CMakeFiles/networkingphotoshopproject.dir
+C:/Users/parca/Desktop/networkingphotoshopproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/parca/Desktop/networkingphotoshopproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
